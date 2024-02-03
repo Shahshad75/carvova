@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68620869051",
+    "project_id": "carnova-7dfcd",
+    "storage_bucket": "carnova-7dfcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68620869051:android:42d20abcd8e8f9084b389e",
+        "android_client_info": {
+          "package_name": "com.example.carnova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRGjUD90PK0PL2PVk4ft9oY_1-qRo5i5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
